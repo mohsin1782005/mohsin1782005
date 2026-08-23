@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/161421040?v=4" width="120" style="border-radius: 50%;" alt="Muhammad Mohsin Avatar" />
+  <img src="https://avatars.githubusercontent.com/mohsin1782005" width="130" height="130" style="border-radius: 50%; object-fit: cover;" alt="Muhammad Mohsin" />
   <h1>Hi there, I'm Muhammad Mohsin 👋</h1>
-  <p><strong>Software Engineer specializing in AI Agents, Workflow Automation & Full-Stack SaaS Products</strong></p>
+  <p><strong>Software Engineer & Business Automation Architect | AI Agents & Full-Stack SaaS</strong></p>
   <p>
     <a href="mailto:mohsinijaz1782005@gmail.com"><img src="https://img.shields.io/badge/Email-mohsinijaz1782005%40gmail.com-blue?style=flat&logo=gmail" alt="Email" /></a>
     <a href="https://calendly.com/mohsinijaz1782005/30min"><img src="https://img.shields.io/badge/Calendly-Book_a_Call-006BFF?style=flat&logo=calendly" alt="Calendly" /></a>
@@ -12,8 +12,8 @@
 ---
 
 ### 💼 Freelance Engineering & Consulting
-**Freelance Software Engineer & Automation Architect (3+ Years of Experience)**  
-Delivering custom AI agent architectures, complex business process automations, and scalable full-stack web applications for global clients across leading freelance platforms.
+**Software Engineer & Business Automation Architect (3+ Years of Experience)**  
+Delivering custom AI agent architectures, complex business process automations, modern rapid-development workflows, and scalable full-stack web applications for global clients across leading freelance platforms.
 
 ---
 
@@ -21,7 +21,7 @@ Delivering custom AI agent architectures, complex business process automations, 
 
 * **Autonomous AI Agents & LLM Systems:** Designing self-healing multi-agent workflows, autonomous decision loops, dynamic prompt routing, and RAG pipelines utilizing Google Gemini, OpenAI, and LangChain.
 * **Enterprise Business & Workflow Automation:** Architecting resilient, high-volume event-driven integrations across CRMs, communication channels, and databases using n8n, Make.com, Zapier, and Google Apps Script.
-* **Full-Stack SaaS & Backend Engineering:** Building scalable web platforms, offline-ready retail POS systems, and multi-tenant ledger engines with Next.js, Node.js, TypeScript, and Supabase.
+* **Full-Stack SaaS & Rapid Prototyping:** Building scalable web platforms, offline-ready retail POS systems, and multi-tenant ledger engines with Next.js, Node.js, TypeScript, Supabase, Lovable, Stitch, and Opal.
 * **Quantitative Data Pipelines & BI:** End-to-end relational modeling, regime-aware risk analytics (VaR/Expected Shortfall), BigQuery SQL ETL pipelines, and executive Tableau BI dashboards.
 
 ---
@@ -30,6 +30,7 @@ Delivering custom AI agent architectures, complex business process automations, 
 
 * **Workflow & Business Automation:** `n8n (Self-Hosted Docker)`, `Make.com`, `Zapier`, `Google Apps Script`, `Webhooks`, `REST APIs`, `Cron Scheduling`
 * **AI & Agentic Frameworks:** `AI Agents`, `Google Gemini API`, `OpenAI API`, `LangChain`, `Llama 3`, `Prompt Engineering`
+* **Rapid App & AI Tools:** `Lovable`, `Stitch`, `Opal`
 * **Languages & Full-Stack:** `JavaScript (ES6+)`, `TypeScript`, `Python`, `SQL`, `Node.js`, `React`, `Next.js`, `Prisma`, `HTML5/CSS3`
 * **Databases & Cloud Infrastructure:** `PostgreSQL`, `Supabase`, `Google BigQuery`, `Google Sheets API`, `Airtable`, `Docker`
 * **Data Science & BI:** `Tableau Desktop`, `Tableau Prep`, `Pandas`, `NumPy`, `Statsmodels`, `R`
@@ -69,8 +70,8 @@ Delivering custom AI agent architectures, complex business process automations, 
 
 ### 📈 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsin1782005&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohsin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin1782005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mohsin1782005&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohsin's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohsin1782005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
